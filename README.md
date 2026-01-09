@@ -6,10 +6,10 @@ Este repositorio contiene la implementación técnica y el análisis econométri
 El objetivo es capturar la interacción entre las expectativas de los agentes, la política monetaria y la actividad real sin imponer restricciones estructurales fuertes inicialmente.
 
 ### Variables Analizadas:
-* **expec**: Expectativas económicas (Variable líder)[cite: 142, 1532].
-* **tasa**: Tasa de interés nominal (Instrumento de política monetaria)[cite: 150, 153].
-* **gpbi**: Crecimiento del Producto Bruto Interno[cite: 157, 158].
-* **gipx**: Crecimiento de la inversión privada[cite: 166, 167].
+* **expec**: Expectativas económicas (Variable líder).
+* **tasa**: Tasa de interés nominal (Instrumento de política monetaria).
+* **gpbi**: Crecimiento del Producto Bruto Interno.
+* **gipx**: Crecimiento de la inversión privada.
 
 ## 🛠️ Metodología Aplicada
 1. **Análisis de Series de Tiempo**: Pruebas de estacionariedad (ADF, KPSS) y test de Zivot-Andrews para quiebres estructurales.
